@@ -3,8 +3,9 @@ name: where-to-play-analysis
 description: Define the specific playing field for competition through systematic scope choices, explicitly identifying what you will and will NOT do.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5307
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - where-to-play-analysis
 - writing
